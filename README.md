@@ -1,4 +1,4 @@
-Play in BROWSER NOT replit.com. 
+Play in BROWSER NOT github. 
 
 Credits to Nintendo for music and characters. 
 
